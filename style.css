@@ -1,0 +1,52 @@
+.red {
+  background-color: lightgray;
+  height: 100px;
+  width: 100px;
+  border-radius: 100pc;
+  border: solid black 2px;
+  margin-left: 50px;
+}
+
+.yellow {
+  background-color: lightgray;
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  border: solid black 2px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.green {
+  background-color: lightgray;
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  border: solid black 2px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.box {
+  background-color: black;
+  height: 370px;
+  padding-top: 30px;
+  width: 180px;
+  margin: 10px;
+  padding-right: 20px;
+}
+
+#body {
+  display: flex;
+  justify-content: center;
+  background-color: darkolivegreen;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  width: 70px;
+  height: 40px;
+  border: solid salmon 3px;
+}
